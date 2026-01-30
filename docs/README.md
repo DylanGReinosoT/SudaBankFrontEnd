@@ -36,7 +36,7 @@ SudBankFrontend/
 ```bash
 # Clonar repositorio
 git clone <repository-url>
-cd SudBankFrontend
+cd SudaBankFrontend
 
 # Instalar dependencias
 npm install
